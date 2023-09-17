@@ -12,10 +12,11 @@
 Este es un ejemplo simple de un widget de botón personalizado en Flutter. El widget tiene un botón que cambia su texto cuando se presiona.
 
 ## Captura de Pantalla
-
-![Captura de Pantalla](./assets/1.jpeg)
-![Captura de Pantalla](./assets/2.jpeg)
-![Captura de Pantalla](./assets/3.jpeg)
+<p align="center">
+  <img src="./assets/1.jpeg" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/2.jpeg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/3.jpeg" width="200" alt="Captura de Pantalla 3">
+</p>
 
 ## Instalación
 
