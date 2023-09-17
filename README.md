@@ -13,8 +13,8 @@ Este es un ejemplo simple de un widget de botón personalizado en Flutter. El wi
 
 ## Captura de Pantalla
 <p align="center">
-  <img src="./assets/1.jpeg" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/2.jpeg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/2.jpeg" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/1.jpeg" width="200" alt="Captura de Pantalla 2">
   <img src="./assets/3.jpeg" width="200" alt="Captura de Pantalla 3">
 </p>
 
