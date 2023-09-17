@@ -1,3 +1,7 @@
+// Creado por: Uriel Maldonado Cortez
+// Asignatura: Desarrollo Movil Integral
+//Grado: 10   Grupo: "A"
+// Docente: MTI. Marco Antonio Ramirez Hernandez
 import 'dart:ffi';
 import 'package:flutter/material.dart';
 
