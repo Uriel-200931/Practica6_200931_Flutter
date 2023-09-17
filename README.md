@@ -9,7 +9,7 @@
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
 ## Descripción de la Aplicación
-Este es un ejemplo simple de un widget de botón personalizado en Flutter. El widget tiene un botón que cambia su texto cuando se presiona.
+Esta aplicación es un ejemplo simple de un botón personalizado en Flutter que cambia su texto cada vez que se presiona. Utiliza un StatefulWidget para mantener un estado interno y una lista de colecciones predefinidas para actualizar el texto del botón. El objetivo principal de esta aplicación es demostrar el uso de StatefulWidget y cómo actualizar la interfaz de usuario en respuesta a las interacciones del usuario.El widget tiene un botón que cambia su texto cuando se presiona.
 
 ## Captura de Pantalla
 <p align="center">
